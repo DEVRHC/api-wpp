@@ -17,7 +17,7 @@ A opção atualizar vai pegar ultima versao do repositorio usado para instalar
 
 ## MEU REPOSITORIO TEM ALGUMAS MUDANÇAS AO ORIGINAL VERIQUE O README
 
-https://github.com/cleitonme/izing.open.io
+https://github.com/
 
 
 ## RODAR OS COMANDOS ABAIXO ##
@@ -119,19 +119,3 @@ docker container restart portainer
 ```
 
 Depois acesse novamente url http://seuip:9000/
-
-## Recomendação de VPS boa e barata
-
--  [Powerful cloud VPS & Web hosting.](https://control.peramix.com/?affid=58)
-
-- Cupom 25% desconto "WHAZING"
-
-```bash
-WHAZING
-```
-
-## Consultoria particular
-
-Para quem gostaria de uma consultoria ou que eu faça instalação pode chamar no whatsapp 48 999416725 (será cobrado por isso)
-
--  [Versão API Bayles](https://github.com/cleitonme/Whazing-SaaS.instalador)
