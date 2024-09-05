@@ -1,10 +1,7 @@
-[![Grupo do WhatsApp](https://img.shields.io/badge/WhatsApp-Grupo%20IZING-brightgreen.svg)](https://chat.whatsapp.com/IIReEheixAx27ZbneHpskP)
 
 ## Instalador para uso em Modo Local
 
-Para computadores windows você pode virtualizar uma maquina windows com o https://www.virtualbox.org/
-
-https://www.datalib.com.br/post/instala%C3%A7%C3%A3o-do-ubuntu-20-04-desktop-no-virtual-box
+Para computadores windows você pode virtualizar uma maquina Linux com Virtualbox, Hyper-V, ou algum virtualizador de sua preferência.
 
 Testado ubuntu 20 e 22
 
@@ -17,7 +14,7 @@ A opção atualizar vai pegar ultima versao do repositorio usado para instalar
 
 ## MEU REPOSITORIO TEM ALGUMAS MUDANÇAS AO ORIGINAL VERIQUE O README
 
-https://github.com/
+https://github.com/DEVRHC/izing.open.io
 
 
 ## RODAR OS COMANDOS ABAIXO ##
